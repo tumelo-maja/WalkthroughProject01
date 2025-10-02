@@ -19,4 +19,4 @@ venv/
 *.json
 *.h5
 *.db
-*.md
+inputs/malaria_dataset/cell_images/validation
